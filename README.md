@@ -1,4 +1,4 @@
-# <p align="center">Yboost 2023 J2 - Workshop HTML/CSS</p>
+# <p align="center">Yboost 2022 J2 - Workshop HTML/CSS</p>
 
 This is a workshop that introduce you to HTML and CSS basics.
 
